@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000248
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སངས་རྒྱས་ཀྱི་དུས་ཆེན་རྣམས་དང་གུ་རུའི་ཚེས་བཅུ་སོགས་ཀྱི་ངོས་འཛིན་རྒྱུ་མཚན་ཕན་ཡོན་སོགས་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
-  sku: TSD-TSE-14
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
+  id: TSD-TSE-14
 web_metadata:
   title:
     en: The Reasons for and Benefits of the Anniversary Celebrations of Buddha and
